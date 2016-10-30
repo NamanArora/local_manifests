@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<project path="device/motorola/athene" name="boulzordev/android_device_motorola_athene" remote="github" revision="cm-14.0" />
+<project path="device/motorola/athene" name="boulzordev/android_device_motorola_athene" remote="github" revision="cm-13.0" />
 
 <project path="vendor/motorola/msm8952" name="boulzordev/proprietary_vendor_motorola_msm8952" remote="github" revision="cm-14.0" />
 
